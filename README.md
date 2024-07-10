@@ -1,75 +1,53 @@
-# Nuxt 3 Minimal Starter
+# CRM Project
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Descrizione
 
-## Setup
+Questo progetto è costruito utilizzando Nuxt 3 e include il pacchetto Nuxt UI. L'interfaccia utente è impostata sulla modalità chiara di default (`colorMode: light`).
 
-Make sure to install the dependencies:
+## Requisiti
+
+- [PNPM 9.1.0](https://pnpm.io/)
+- [Node.js](https://nodejs.org/)
+
+## Installazione
+
+Per iniziare a lavorare con questo progetto, esegui i seguenti comandi una volta clonato il repository:
 
 ```bash
-# npm
-npm install
-
-# pnpm
 pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
 ```
 
-## Development Server
+## Sviluppo
 
-Start the development server on `http://localhost:3000`:
+Per avviare il server di sviluppo, esegui:
 
 ```bash
-# npm
-npm run dev
-
-# pnpm
 pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
 ```
 
-## Production
+# CRM Project
 
-Build the application for production:
+## Description
+
+This project is built using Nuxt 3 and includes the Nuxt UI package. The user interface is set to light mode by default (`colorMode: light`).
+
+## Requirements
+
+- [PNPM 9.1.0](https://pnpm.io/)
+- [Node.js](https://nodejs.org/)
+
+## Installation
+
+To start working with this project, run the following commands after cloning the repository:
 
 ```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
+pnpm install
 ```
 
-Locally preview production build:
+## Development
+
+To start the development server, run:
 
 ```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
+pnpm run dev
 ```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
